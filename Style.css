@@ -1,0 +1,298 @@
+ * {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+
+}
+
+
+ .home a {
+
+text-decoration: none;
+color: inherit;
+ }
+
+  body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.home, .home * { box-sizing: border-box; }.home {background: #ffffff; width:100%; height: 3482px; position: relative; overflow: hidden;}
+ .section-1 {width: 100%; height: 847px; position: absolute; left: 0px;top: 0px;}
+ .frame-15423 {width:100%; height: 847px; position: absolute; left: 0px;top: 0px;}
+ .background-color {width: 100%; height: 847px; position: absolute; left: 0px;top: 0px;}
+ .rectangle-2 {background: radial-gradient(closest-side, rgba(32, 29, 71, 1.00) 0%,rgba(23, 21, 58, 1.00) 100%); width: 100%; height: 847px;  left: calc(50% - 720px);top: 0px;}
+ .circle {width: 851px; height: 847px; position: absolute; left: 591px;top: 0px;}
+ .image {position: absolute; inset: 0;}
+ .ellipse-1 {background: linear-gradient(180deg, rgba(92, 87, 184, 0.20) 0%,rgba(26, 24, 62, 0.00) 100%); border-radius: 50%; width: 625.84px; height: 616.04px; position: absolute; left: 527.14px;top: -39.53px; transform-origin: 0 0; transform: rotate(58.837deg) scale(1, 1);}
+ .ellipse-2 {background: #2a2759; border-radius: 50%; width: 511.87px; height: 471.12px; position: absolute; left: 586.12px;top: 4.99px; transform-origin: 0 0; transform: rotate(58.837deg) scale(1, 1);}
+ .navbar {padding: 24px 0px 24px 0px; display: flex; flex-direction: row; gap: 582px; align-items: center; justify-content: flex-start; position: absolute; left: calc(50% - 648px);top: 0px;}
+ .logo {flex-shrink: 0; width: 147px; height: 52.99px; position: relative;}
+ .o {color: #efc615; text-align: left; font: 400 43.86px 'Inter', sans-serif; position: absolute; left: 17.82px;top: 0px;}
+ .group {position: absolute; inset: 0;}
+ .group2 {width: 14.17px; height: 21.4px; position: static;}
+ .group3 {position: absolute; left: 0px;top: 15.63px; overflow: visible;}
+ .group4 {width: 18.39px; height: 21.4px; position: static;}
+ .group5 {position: absolute; left: 56.11px;top: 15.63px; overflow: visible;}
+ .group6 {width: 17px; height: 21.4px; position: static;}
+ .group7 {position: absolute; left: 77.63px;top: 15.63px; overflow: visible;}
+ .group8 {width: 2.86px; height: 21.4px; position: static;}
+ .group9 {position: absolute; left: 99.09px;top: 15.63px; overflow: visible;}
+ .group10 {width: 17.26px; height: 21.4px; position: static;}
+ .group11 {position: absolute; left: 107.42px;top: 15.63px; overflow: visible;}
+ .group12 {width: 17.82px; height: 21.96px; position: static;}
+ .group13 {position: absolute; left: 129.18px;top: 15.35px; overflow: visible;}
+ .group14 {width: 3.85px; height: 4.77px; position: static;}
+ .group15 {position: absolute; left: 55.71px;top: 45.76px; overflow: visible;}
+ .group16 {width: 3.39px; height: 4.77px; position: static;}
+ .group17 {position: absolute; left: 60.26px;top: 45.76px; overflow: visible;}
+ .group18 {width: 3.97px; height: 4.88px; position: static;}
+ .group19 {position: absolute; left: 64.31px;top: 45.7px; overflow: visible;}
+ .group20 {width: 4.09px; height: 4.77px; position: static;}
+ .group21 {position: absolute; left: 69.26px;top: 45.76px; overflow: visible;}
+ .group22 {position: absolute; left: 74.58px;top: 45.76px; overflow: visible;}
+ .group23 {width: 4.84px; height: 4.88px; position: static;}
+ .group24 {position: absolute; left: 79.42px;top: 45.7px; overflow: visible;}
+ .group25 {width: 3.16px; height: 4.77px; position: static;}
+ .group26 {position: absolute; left: 85.26px;top: 45.76px; overflow: visible;}
+ .group27 {position: absolute; left: 88.95px;top: 45.7px; overflow: visible;}
+ .group28 {position: absolute; left: 94.57px;top: 45.7px; overflow: visible;}
+ .group29 {width: 4.03px; height: 4.77px; position: static;}
+ .group30 {position: absolute; left: 98.95px;top: 45.76px; overflow: visible;}
+ .group31 {width: 1.52px; height: 1.52px; position: static;}
+ .group32 {position: absolute; left: 105.24px;top: 47.41px; overflow: visible;}
+ .group33 {width: 3.48px; height: 4.87px; position: static;}
+ .group34 {position: absolute; left: 109.31px;top: 45.71px; overflow: visible;}
+ .group35 {position: absolute; left: 113.55px;top: 45.7px; overflow: visible;}
+ .group36 {width: 3.38px; height: 4.77px; position: static;}
+ .group37 {position: absolute; left: 119px;top: 45.76px; overflow: visible;}
+ .group38 {position: absolute; left: 122.68px;top: 45.76px; overflow: visible;}
+ .group39 {width: 5.6px; height: 4.77px; position: static;}
+ .group40 {position: absolute; left: 126.67px;top: 45.76px; overflow: visible;}
+ .group41 {position: absolute; left: 132.45px;top: 45.76px; overflow: visible;}
+ .group42 {position: absolute; left: 137.23px;top: 45.76px; overflow: visible;}
+ .group43 {position: absolute; left: 141.09px;top: 45.76px; overflow: visible;}
+ .frame-8 {display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-shrink: 0; width: 567px; position: relative;}
+ .frame-7 {display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-shrink: 0; width: 375px; position: relative;}
+ .home2 {color: #ffffff; text-align: left; font: 500 14px 'Poppins', sans-serif; position: relative;}
+ .about-us {
+    color: #ffffff; text-align: left; font: 500 14px 'Poppins', sans-serif; position: relative; 
+    text-decoration: none;}
+ .services {color: #ffffff; text-align: left; font: 500 14px 'Poppins', sans-serif; position: relative;}
+ .contact {color: #ffffff; text-align: left; font: 500 14px 'Poppins', sans-serif; position: relative;}
+ .support {color: #ffffff; text-align: left; font: 500 14px 'Poppins', sans-serif; position: relative;}
+ .frame-6 {border-radius: 12px; border-style: solid; border-color: #ffffff; border-width: 1px; padding: 12px 16px 12px 16px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; flex-shrink: 0; position: relative;}
+ .login-sign-up {color: #ffffff; text-align: left; font: 500 14px 'Poppins', sans-serif; position: relative;}
+ .frame-15422 {width: 1209px; height: 535px; position: absolute; left: 165px;top: 180px;}
+ .frame-15419 {width: 642px; height: 533px; position: absolute; left: 567px;top: 2px;}
+ .group-468 {position: absolute; inset: 0;}
+ .rectangle-3 {background: linear-gradient(to left, #ffffff, #ffffff); border-radius: 43.57px; width: 354.68px; height: 409.58px; position: absolute; left: 101.09px;top: 72px; box-shadow: 0px 21.79px 34.86px 0px rgba(0, 0, 0, 0.10);}
+ .card-card-rankings-singles {background: #ffffff; border-radius: 11.27px; width: 134.2px; height: 67.1px; position: absolute; left: 31.37px;top: 163.5px; box-shadow: 0px 11.74px 18.79px 0px rgba(0, 0, 0, 0.10);}
+ .rectangle-15 {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .mask-group {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .group-70 {position: absolute; left: 10.4px;top: 17.09px; overflow: visible;}
+ .frame-71 {display: flex; flex-direction: row; gap: 3.36px; align-items: center; justify-content: flex-start; position: absolute; left: 10.07px;top: 35.56px; overflow: hidden;}
+ ._18 {flex-shrink: 0; position: relative; overflow: visible;}
+ .secondary-up {flex-shrink: 0; position: relative; overflow: visible;}
+ .card-statistic-year {background: #ffffff; border-radius: 14.64px; width: 183.01px; height: 183.01px; position: absolute; left: 0px;top: 349.99px; box-shadow: 0px 15.25px 24.4px 0px rgba(0, 0, 0, 0.10);}
+ .rectangle-13 {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .group-85 {position: absolute; inset: 0;}
+ .group-73 {width: 5.64px; height: 91.57px; position: static;}
+ .group-56 {position: absolute; left: 21.96px;top: 65.88px; overflow: visible;}
+ ._01 {position: absolute; left: 20.4px;top: 153.02px; overflow: visible;}
+ .group-74 {width: 6.86px; height: 91.57px; position: static;}
+ .group-57 {position: absolute; left: 34.16px;top: 65.88px; overflow: visible;}
+ ._02 {position: absolute; left: 31.99px;top: 153.02px; overflow: visible;}
+ .group-75 {width: 7.02px; height: 91.57px; position: static;}
+ .group-58 {position: absolute; left: 46.97px;top: 65.88px; overflow: visible;}
+ ._03 {position: absolute; left: 44.8px;top: 153.02px; overflow: visible;}
+ .group-76 {width: 7.25px; height: 91.57px; position: static;}
+ .group-59 {position: absolute; left: 59.78px;top: 65.88px; overflow: visible;}
+ ._04 {position: absolute; left: 57.61px;top: 153.02px; overflow: visible;}
+ .group-77 {width: 7.09px; height: 91.57px; position: static;}
+ .group-60 {position: absolute; left: 72.59px;top: 65.88px; overflow: visible;}
+ ._05 {position: absolute; left: 70.42px;top: 153.02px; overflow: visible;}
+ .group-78 {width: 7.16px; height: 91.58px; position: static;}
+ .group-61 {position: absolute; left: 85.4px;top: 65.88px; overflow: visible;}
+ ._06 {position: absolute; left: 83.23px;top: 153.01px; overflow: visible;}
+ .group-79 {width: 6.69px; height: 91.57px; position: static;}
+ .group-62 {position: absolute; left: 98.21px;top: 65.88px; overflow: visible;}
+ ._07 {position: absolute; left: 96.04px;top: 153.02px; overflow: visible;}
+ .group-80 {width: 7.12px; height: 91.57px; position: static;}
+ .group-63 {position: absolute; left: 110.41px;top: 65.88px; overflow: visible;}
+ ._08 {position: absolute; left: 108.24px;top: 153.02px; overflow: visible;}
+ .group-81 {width: 7.12px; height: 91.57px; position: static;}
+ .group-64 {position: absolute; left: 123.22px;top: 65.88px; overflow: visible;}
+ ._09 {position: absolute; left: 121.05px;top: 153.01px; overflow: visible;}
+ .group-82 {width: 6.15px; height: 91.57px; position: static;}
+ .group-65 {position: absolute; left: 135.42px;top: 65.88px; overflow: visible;}
+ ._10 {position: absolute; left: 133.89px;top: 153.02px; overflow: visible;}
+ .group-83 {width: 4.68px; height: 91.5px; position: static;}
+ .group-66 {position: absolute; left: 146.4px;top: 65.88px; overflow: visible;}
+ ._11 {position: absolute; left: 145.48px;top: 153.09px; overflow: visible;}
+ .group-84 {width: 5.9px; height: 91.5px; position: static;}
+ .group-67 {position: absolute; left: 157.99px;top: 65.88px; overflow: visible;}
+ ._12 {position: absolute; left: 156.46px;top: 153.02px; overflow: visible;}
+ .frame-86 {display: flex; flex-direction: row; gap: 39.65px; align-items: center; justify-content: flex-start; position: absolute; left: 21.35px;top: 29.28px; overflow: hidden;}
+ .secondary-arrow-left {flex-shrink: 0; position: relative; overflow: visible;}
+ .stats {flex-shrink: 0; position: relative; overflow: visible;}
+ .secondary-arrow-right {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-225 {position: absolute; inset: 0;}
+ .rectangle-202 {background: rgba(255, 255, 255, 0.10); border-radius: 5px; border-style: solid; border-color: rgba(255, 255, 255, 0.50); border-width: 1px; width: 483px; height: 292px; position: absolute; left: 154px;top: 0px; backdrop-filter: blur(2px);}
+ .function-login-var-password-document-login-password-value-if-password-kzt-yq-8-window-location-bravo-htm-else-window-location-dommage-htm {color: var(--primaire-white, #ffffff); text-align: left; font: 400 16px/146.69% 'Fira Code', sans-serif; position: absolute; left: 174px;top: 32px; width: 468px; height: 253px;}
+ .frame-225 {background: rgba(43, 255, 71, 0.10); border-radius: 3px; border-style: solid; border-color: var(--secondaire-green, #2bff47); border-width: 1px; padding: 6px 15px 6px 15px; display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 528px;top: 12px; backdrop-filter: blur(2px);}
+ .hack-me {color: var(--secondaire-green, #2bff47); text-align: left; font: 400 16px/146.69% 'Fira Code', sans-serif; position: relative;}
+ .group-7 {position: absolute; inset: 0;}
+ .connecting-all-your-banking-needs {color: #ffffff; text-align: left; font: 700 60px 'Poppins', sans-serif; position: absolute; left: 0px;top: calc(50% - 267.5px); width: 500px; display: flex;align-items: flex-end;justify-content: flex-start}
+ .a-smart-mobile-application-you-can-control-your-business-needs {color: rgba(255, 255, 255, 0.70); text-align: left; font: 400 16px 'Poppins', sans-serif; position: absolute; left: 0px;top: calc(50% - 72.5px); width: 440px;}
+ .button {width: 200px; height: 60px; position: static;}
+ .rectangle-33 {background: linear-gradient(135deg, rgba(64, 221, 255, 1.00) 0%,rgba(20, 186, 227, 1.00) 19.23530250787735%,rgba(19, 177, 230, 1.00) 68.64244937896729%,rgba(17, 170, 223, 1.00) 81.76571130752563%,rgba(11, 152, 197, 1.00) 100%); border-radius: 10px; width: 200px; height: 60px; position: absolute; left: 0px;top: 327px;}
+ .group-10 {width: 104px; height: 22px; position: static;}
+ .get-started {color: #ffffff; text-align: center; font: 500 16px 'Poppins', sans-serif; position: absolute; left: 48px;top: 346px; width: 104px; height: 22px; display: flex;align-items: center;justify-content: center}
+ .frame-15421 {width: 1289.8px; height: 565.25px; position: absolute; left: 70px;top: 928px;}
+ .row {display: flex; flex-direction: row; gap: 37.18px; align-items: flex-start; justify-content: flex-start; position: absolute; left: calc(50% - 642.71px);top: 138px;}
+ .col-md-3 {display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 294.95px; position: relative;}
+ .card {background: var(--light-background-color, #ffffff); padding: 43.37px 49.57px 43.37px 49.57px; display: flex; flex-direction: column; gap: 24.79px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; width: 285.03px; position: relative; box-shadow: 0px 16.11px 23.55px 0px rgba(0, 0, 0, 0.07); overflow: hidden;}
+ .fixed-width-sec {background: var(--faded-primary-color, #f9fdff); border-radius: 12.39px; padding: 27.26px 23.55px 27.26px 23.55px; display: flex; flex-direction: column; gap: 12.39px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative; overflow: hidden;}
+ .icon-cool-icon-n-2 {flex-shrink: 0; width: 39.66px; height: 39.66px; position: relative; overflow: hidden;}
+ ._012-blackboards {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .h-5-feature-title-1-sec {color: var(--text-color, #252b42); text-align: left; font: 700 19.83px/29.74px 'Montserrat', sans-serif; position: relative;}
+ .fixed-width-fixed-height-sec {background: var(--danger-color, #e74040); flex-shrink: 0; width: 61.96px; height: 2.48px; position: relative;}
+ .paragraph-feature-description-sec {color: var(--second-text-color, #737373); text-align: left; font: 400 17.35px/24.79px 'Montserrat', sans-serif; position: relative; width: 188px;}
+ .col-md-32 {padding: 59.49px 0px 0px 0px; display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 298.67px; position: relative;}
+ .fixed-width-sec2 {background: var(--faded-secondary-color-1, #ddeefe); border-radius: 12.39px; padding: 27.26px 23.55px 27.26px 23.55px; display: flex; flex-direction: column; gap: 12.39px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative; overflow: hidden;}
+ .icon-cool-icon-n-20 {flex-shrink: 0; width: 39.66px; height: 39.66px; position: relative; overflow: hidden;}
+ ._013-telescope-1 {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .h-5-feature-title-2-sec {color: var(--text-color, #252b42); text-align: left; font: 700 19.83px/29.74px 'Montserrat', sans-serif; position: relative;}
+ .paragraph-feature-description-sec2 {color: var(--second-text-color, #737373); text-align: left; font: 400 17.35px/24.79px 'Montserrat', sans-serif; position: relative; width: 193px;}
+ ._013-telescope-12 {position: absolute; left: 0px;top: 0px; overflow: visible;}
+ .col-md-33 {padding: 59.49px 0px 0px 0px; display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 297.43px; position: relative;}
+ .fixed-width-sec3 {background: var(--faded-secondary-color-2, #b6d7ff); border-radius: 12.39px; padding: 27.26px 23.55px 27.26px 23.55px; display: flex; flex-direction: column; gap: 12.39px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative; overflow: hidden;}
+ .icon-cool-icon-n-22 {flex-shrink: 0; width: 39.66px; height: 39.66px; position: relative; overflow: hidden;}
+ ._009-backpack-1 {width: 39.66px; height: 39.66px; position: absolute; left: 0px;top: 0px; overflow: hidden;}
+ .xmlid-307 {position: absolute; left: 6.95px;top: 0px; overflow: visible;}
+ .h-5-feature-title-4-sec {color: var(--text-color, #252b42); text-align: left; font: 700 19.83px/29.74px 'Montserrat', sans-serif; position: relative;}
+ .frame-226 {padding: 0px 16px 0px 16px; display: flex; flex-direction: column; gap: 16px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 0px;top: 0px;}
+ .frame-228 {border-style: solid; border-color: #efc615; border-width: 0px 0px 0px 4px; padding: 0px 0px 0px 16px; display: flex; flex-direction: row; gap: 10px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .what-we-do {color: #000000; text-align: left; font: 600 40px/30px 'Poppins', sans-serif; position: relative;}
+ .we-provide-customized-solutions-that-meet-our-clients-unique-needs-and-help-them-succeed-in-an-increasingly-digital-world {color: #11112b; text-align: left; font: 400 20px/30px 'Poppins', sans-serif; position: relative; width: 848px;}
+ .heading {display: flex; flex-direction: column; gap: 13.26px; align-items: flex-start; justify-content: flex-start; width: 351.01px; height: 48px; position: absolute; left: 842px;top: 1698px;}
+ .frame-231 {padding: 0px 0px 0px 72px; display: flex; flex-direction: column; gap: 10px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 0px;top: 1574px;}
+ .frame-15420 {display: flex; flex-direction: column; gap: 10px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .frame-227 {flex-shrink: 0; width: 673px; height: 476px; position: relative;}
+ .unsplash-95-y-rwf-6-c-nw-8 {width: 641px; height: 433px; position: absolute; left: 0px;top: 0px;}
+ .unsplash-v-jp-w-z-6-h-g-bg {border-radius: 3px; border-style: solid; border-color: #ffffff; border-width: 20px 0px 0px 20px; width: 211px; height: 206px; position: absolute; left: 462px;top: 270px;}
+ .frame-230 {flex-shrink: 0; width: 534.04px; height: 216.05px; position: absolute; left: 751px;top: 130px;}
+ .frame-229 {width: 534.04px; height: 123px; position: absolute; left: 0px;top: 0px;}
+ .frame-233 {border-style: solid; border-color: #efc615; border-width: 0px 0px 0px 2px; padding: 0px 0px 0px 6px; display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center; position: absolute; left: 0px;top: 0px;}
+ .our-company-overview {color: #000000; text-align: center; font: 600 32px 'Poppins', sans-serif; position: relative;}
+ .lorem-ipsum-dolor-sit-amet-consectetur-duis-amet-diam-non-imperdiet-potenti-egestas-sed-neque-a-urna-netus-eget-libero-lectus-scelerisque-tellus-elementum-nisl-erat-ut-amet-morbi-aliquet-purus-condimentum-turpis-erat {color: #666c89; text-align: left; font: 400 14px/151.52% 'Poppins', sans-serif; position: absolute; left: 0px;top: 60px; width: 534.04px;}
+ .button2 {position: absolute; inset: 0;}
+ .background {position: absolute; left: 0px;top: 163px; overflow: visible;}
+ .learn-more {color: #ffffff; text-align: center; font: 600 14.15px/135.02% 'Krub', sans-serif; position: absolute; left: 47.74px;top: 179.8px;}
+ .frame-15414 {
+  background: #18163b;
+  padding: 108px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+ .frame-15412 {display: flex; flex-direction: row; align-items: center; justify-content: space-between; flex-shrink: 0; width: 1216px; position: relative;}
+ .frame-15411 {flex-shrink: 0; width: 414px; height: 222px; position: relative;}
+ .frame-15409 {display: flex; flex-direction: column; gap: 53px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 0px;top: 0px;}
+ .group44 {position: absolute; left: 0px;top: 15.63px; overflow: visible;}
+ .group45 {position: absolute; left: 56.11px;top: 15.63px; overflow: visible;}
+ .group46 {position: absolute; left: 77.63px;top: 15.63px; overflow: visible;}
+ .group47 {position: absolute; left: 99.09px;top: 15.63px; overflow: visible;}
+ .group48 {position: absolute; left: 107.42px;top: 15.63px; overflow: visible;}
+ .group49 {position: absolute; left: 129.18px;top: 15.35px; overflow: visible;}
+ .group50 {position: absolute; left: 55.71px;top: 45.76px; overflow: visible;}
+ .group51 {position: absolute; left: 60.26px;top: 45.76px; overflow: visible;}
+ .group52 {position: absolute; left: 64.31px;top: 45.7px; overflow: visible;}
+ .group53 {position: absolute; left: 69.26px;top: 45.76px; overflow: visible;}
+ .group54 {position: absolute; left: 74.58px;top: 45.76px; overflow: visible;}
+ .group55 {position: absolute; left: 79.42px;top: 45.7px; overflow: visible;}
+ .group56 {position: absolute; left: 85.26px;top: 45.76px; overflow: visible;}
+ .group57 {position: absolute; left: 88.95px;top: 45.7px; overflow: visible;}
+ .group58 {position: absolute; left: 94.57px;top: 45.7px; overflow: visible;}
+ .group59 {position: absolute; left: 98.95px;top: 45.76px; overflow: visible;}
+ .group60 {position: absolute; left: 105.24px;top: 47.41px; overflow: visible;}
+ .group61 {position: absolute; left: 109.31px;top: 45.71px; overflow: visible;}
+ .group62 {position: absolute; left: 113.55px;top: 45.7px; overflow: visible;}
+ .group63 {position: absolute; left: 119px;top: 45.76px; overflow: visible;}
+ .group64 {position: absolute; left: 122.68px;top: 45.76px; overflow: visible;}
+ .group65 {position: absolute; left: 126.67px;top: 45.76px; overflow: visible;}
+ .group66 {position: absolute; left: 132.45px;top: 45.76px; overflow: visible;}
+ .group67 {position: absolute; left: 137.23px;top: 45.76px; overflow: visible;}
+ .group68 {position: absolute; left: 141.09px;top: 45.76px; overflow: visible;}
+ .company-1234-5th-ave-n-seattle-wa-98101 {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative; width: 129px; height: 58px;}
+ .frame-15403 {display: flex; flex-direction: row; gap: 18px; align-items: center; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .vector64 {flex-shrink: 0; position: relative; overflow: visible;}
+ .vector65 {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-190 {flex-shrink: 0; position: relative; overflow: visible;}
+ .group-191 {flex-shrink: 0; position: relative; overflow: visible;}
+ .frame-15405 {display: flex; flex-direction: column; gap: 24px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .product {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--h-5, 700 14px 'Rubik', sans-serif); position: relative;}
+ .login {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .overview {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .feedback {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .meetings {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .action-items {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .frame-15407 {display: flex; flex-direction: column; gap: 24px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .resources {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--h-5, 700 14px 'Rubik', sans-serif); position: relative;}
+ .blog {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .podcast {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .templates {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .newsletter {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .help-center {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .frame-15408 {display: flex; flex-direction: column; gap: 24px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .company {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--h-5, 700 14px 'Rubik', sans-serif); position: relative;}
+ .remote-meetings {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .executive {color: var(--global-colors-background-color-white, #ffffff); text-align: left; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .frame-15417 {flex-shrink: 0; width: 692px; height: 216px; position: relative;}
+ .frame-15415 {display: flex; flex-direction: column; gap: 24px; align-items: center; justify-content: center; position: absolute; left: 0px;top: 0px;}
+ .row2 {display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 692px; position: relative; overflow: hidden;}
+ .main-content {display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 691px; position: relative; overflow: hidden;}
+ .h-3-section-title-sec {color: var(--light-text-color, #ffffff); text-align: center; font: 700 20px/50px 'Montserrat', sans-serif; position: relative;}
+ .paragraph-sec {color: var(--light-text-color, #ffffff); text-align: center; font: var(--paragraph, 400 14px/20px 'Montserrat', sans-serif); position: relative;}
+ .row3 {display: flex; flex-direction: row; gap: 30px; align-items: flex-start; justify-content: center; flex-shrink: 0; position: relative;}
+ .col-md-8-sec {display: flex; flex-direction: column; gap: 0px; align-items: center; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .subscribe {flex-shrink: 0; width: 688px; height: 58px; position: relative;}
+ .input-group {height: 58px; position: absolute; right: 0px; left: 0px;top: 0px; overflow: hidden;}
+ .form-control-input-style-1 {background: #f9f9f9; border-radius: 5px; border-style: solid; border-color: #e6e6e6; border-width: 1px; padding: 19px 25px 19px 25px; position: absolute; right: 0px; left: 0px;bottom: 0px; top: 0px; overflow: hidden;}
+ .your-email {color: var(--second-text-color, #737373); text-align: left; font: 400 14px/28px 'Montserrat', sans-serif; position: absolute; left: 20px;top: calc(50% - 14px);}
+ .input-group-append {width: 117px; position: absolute; right: 0px;bottom: 0px; top: 0px; overflow: hidden;}
+ .btn {background: #12ade2; border-radius: 0px 5px 5px 0px; border-style: solid; border-color: #e6e6e6; border-width: 1px; padding: 15px 20px 15px 20px; position: absolute; right: 0px; left: 0px;bottom: 0px; top: 0px; overflow: hidden;}
+ .input-group-text {color: var(--light-text-color, #ffffff); text-align: center; font: 400 14px/28px 'Montserrat', sans-serif; position: absolute; left: calc(50% - 36px);top: calc(50% - 14px);}
+ .testimonial-atlaswire-testimonial-01 {padding: 108px 112px 108px 112px; display: flex; flex-direction: column; gap: 58px; align-items: flex-start; justify-content: flex-start; width: 1440px; position: absolute; left: calc(50% - 720px);top: 2148px; overflow: hidden;}
+ .frame-232 {padding: 0px 16px 0px 16px; display: flex; flex-direction: column; gap: 16px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
+ .what-our-clients-says {color: #000000; text-align: left; font: 600 40px/30px 'Poppins', sans-serif; position: relative;}
+ .frame-15381 {display: flex; flex-direction: row; gap: 85px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; width: 1217.73px; position: relative;}
+ .testimonial-card-quote-active {background: var(--global-colors-text-color-white, #ffffff); border-radius: 9px; border-style: solid; border-color: var(--global-colors-card-border-color-orchid-blue, #6492fd); border-width: 0.2px; padding: 33px 32px 33px 32px; display: flex; flex-direction: column; gap: 10px; align-items: flex-start; justify-content: flex-start; flex: 1; position: relative; box-shadow: var(--cardshadowhover-box-shadow, 0px 11px 30px 0px rgba(154, 161, 177, 0.20));}
+ .frame-15377 {display: flex; flex-direction: column; gap: 20px; align-items: flex-start; justify-content: flex-start; align-self: stretch;flex-shrink: 0; position: relative;}
+ . {flex-shrink: 0; position: relative; overflow: visible;}
+ .i-didn-t-have-the-time-or-expertise-to-undertake-marketing-kalungi-has-a-very-well-thought-out-approach-and-the-fact-that-you-can-get-their-team-on-a-fractional-basis-is-unbelievable {color: var(--global-colors-text-color-black, #000000); text-align: left; font: var(--body-regular, 500 16px/140% 'Inter', sans-serif); position: relative; align-self: stretch;}
+ .frame-15376 {display: flex; flex-direction: row; gap: 17px; align-items: center; justify-content: flex-start; align-self: stretch;flex-shrink: 0; position: relative;}
+ .image-26 {border-radius: 31.63px; flex-shrink: 0; width: 53.24px; height: 51.29px; position: relative;}
+ .frame-15375 {display: flex; flex-direction: column; gap: 3px; align-items: flex-start; justify-content: center; flex: 1; position: relative;}
+ .co-founder-kalungi {color: var(--global-colors-primary-color-blue, #4678ee); text-align: left; font: 700 10px 'Inter', sans-serif; text-transform: uppercase; position: relative; width: 217px;}
+ .stijn-hendrikse {color: var(--global-colors-text-color-black, #000000); text-align: left; font: var(--body-bold, 700 16px 'Inter', sans-serif); position: relative; width: 217px;}
+ .2 {flex-shrink: 0; position: relative; overflow: visible;}
+ .3 {flex-shrink: 0; position: relative; overflow: visible;}
+ .frame-15413 {width: 1440px; height: 109px; position: absolute; left: calc(50% - 720px);bottom: 0px;}
+ .frame-15410 {display: flex; flex-direction: row; gap: 40px; align-items: flex-start; justify-content: center; position: absolute; left: calc(50% - 193.5px);top: calc(50% - 8.5px);}
+ ._2023-company-all-rights-reserved {color: var(--global-colors-background-color-white, #ffffff); text-align: center; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
+ .privacy-policy {color: var(--global-colors-background-color-white, #ffffff); text-align: center; font: var(--bodymed-14-pt, 500 14px 'Inter', sans-serif); position: relative;}
